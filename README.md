@@ -28,7 +28,7 @@
 
 <br>
 
-<p align="center">
+<p >
 
   <img src="https://media.tenor.com/-bcIjjtcC30AAAAi/omen-valorant.gif" width="200px"> 
  <img src="https://media.tenor.com/-bcIjjtcC30AAAAi/omen-valorant.gif" width="200px"> 
