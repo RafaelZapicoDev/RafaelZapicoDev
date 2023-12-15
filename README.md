@@ -1,5 +1,7 @@
 ![Developer-Banner](./White%20Neon%20Minimal%20with%20Glassmoprhism%20Shape%20and%20Gradient%20Background%20NFT%20Twitter%20Header.gif)
 
+<br>
+
 # Tecnologias 💻
 
 <p>
@@ -18,7 +20,10 @@
 
 <br>
 
-# Contatos 
+# Contatos 📣
 
 ### 📞 Phone Number:  +55 32 998363728
 ### 📩 E-mail: rafaelzapico.ti@gmail.com
+### <a href="https://www.linkedin.com/in/rafael-z%C3%A1pico-moura-93652a23b/"  target="_blank" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit"> </a> 
+
+
