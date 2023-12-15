@@ -14,5 +14,11 @@
    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="48px">
    <img src="https://avatars.githubusercontent.com/u/21025855?s=280&v=4" width="55px">   
    <img src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png" width="50px">
-  
 </p>
+
+<br>
+
+# Contatos 
+
+### 📞 Phone Number:  +55 32 998363728
+### 📩 E-mail: rafaelzapico.ti@gmail.com
