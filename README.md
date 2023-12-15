@@ -26,4 +26,11 @@
 ### 📩 E-mail: rafaelzapico.ti@gmail.com
 ### <a href="https://www.linkedin.com/in/rafael-z%C3%A1pico-moura-93652a23b/"  target="_blank" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit"> </a> 
 
+<br>
 
+# Dancing Omen 🪩
+<p>
+ <img src="https://media.tenor.com/-bcIjjtcC30AAAAi/omen-valorant.gif" width="300px"> 
+ <img src="https://media.tenor.com/-bcIjjtcC30AAAAi/omen-valorant.gif" width="300px"> 
+ <img src="https://media.tenor.com/-bcIjjtcC30AAAAi/omen-valorant.gif" width="300px"> 
+</p>
