@@ -1,2 +1,1 @@
-  <img align="center" alt="Banner tematizado do meu perfil" width="22px" src="./White Neon Minimal with Glassmoprhism Shape and Gradient Background NFT Twitter Header.gif" />
-
+![Web-developer](./White%20Neon%20Minimal%20with%20Glassmoprhism%20Shape%20and%20Gradient%20Background%20NFT%20Twitter%20Header.gif)
