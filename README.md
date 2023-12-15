@@ -2,7 +2,7 @@
 
 <br>
 
-# Tecnologias 💻
+# Technology 💻
 
 <p>
  <img src="https://static-00.iconduck.com/assets.00/js-icon-2048x2048-kbwt89q3.png" width="50px">
@@ -20,7 +20,7 @@
 
 <br>
 
-# Contatos 📣
+# Contact Me 📣
 
 ### 📞 Phone Number:  +55 32 998363728
 ### 📩 E-mail: rafaelzapico.ti@gmail.com
@@ -28,9 +28,8 @@
 
 <br>
 
-# Dancing Omen 🪩
-<p>
- <img src="https://media.tenor.com/-bcIjjtcC30AAAAi/omen-valorant.gif" width="300px"> 
- <img src="https://media.tenor.com/-bcIjjtcC30AAAAi/omen-valorant.gif" width="300px"> 
- <img src="https://media.tenor.com/-bcIjjtcC30AAAAi/omen-valorant.gif" width="300px"> 
-</p>
+
+ <img src="https://media.tenor.com/-bcIjjtcC30AAAAi/omen-valorant.gif" width="200px"> 
+ <img src="https://media.tenor.com/-bcIjjtcC30AAAAi/omen-valorant.gif" width="200px"> 
+ <img src="https://media.tenor.com/-bcIjjtcC30AAAAi/omen-valorant.gif" width="200px"> 
+
