@@ -13,9 +13,8 @@
    <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" width="50px">
    <img src="https://www.shareicon.net/data/512x512/2016/09/23/833700_windows_512x512.png" width="50px">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/1200px-Calligrakrita-base.svg.png" width="50px">
-   <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="48px">
-   <img src="https://avatars.githubusercontent.com/u/21025855?s=280&v=4" width="55px">   
-   <img src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png" width="50px">
+   <img src="https://play.google.com/store/apps/details?id=jp.co.celsys.clipstudiopaint.googleplay&hl=pt_BR" width="50px">
+ 
 </p>
 
 <br>
