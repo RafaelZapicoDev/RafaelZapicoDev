@@ -1,4 +1,4 @@
-![Developer-Banner](./White%20Neon%20Minimal%20with%20Glassmoprhism%20Shape%20and%20Gradient%20Background%20NFT%20Twitter%20Header.gif)
+
 
 <br>
 
@@ -32,12 +32,11 @@
 
 <br>
 
+
+
 <p >
 
- <img src="https://media.tenor.com/-bcIjjtcC30AAAAi/omen-valorant.gif" width="200px"> 
- <img src="https://media.tenor.com/-bcIjjtcC30AAAAi/omen-valorant.gif" width="200px"> 
- <img src="https://media.tenor.com/-bcIjjtcC30AAAAi/omen-valorant.gif" width="200px"> 
- <img src="https://media.tenor.com/-bcIjjtcC30AAAAi/omen-valorant.gif" width="200px"> 
+ 
 </p>
 
 
