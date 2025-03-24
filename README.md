@@ -9,6 +9,7 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="50px">
  <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="50px" height="50px">
  <img src="https://brandeps.com/logo-download/F/Firebase-logo-02.png" width="50px" height="50px">
+  <img src="https://riverpod.dev/img/logo.png" width="50px">
    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="50px">
    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50px">
     <img src="https://static-00.iconduck.com/assets.00/js-icon-2048x2048-kbwt89q3.png" width="50px">
@@ -25,18 +26,17 @@
 
 # Contact Me 📣
 
-### 📞 Phone Number:  +55 32 998363728
+### 💻 Linkedin: https://www.linkedin.com/in/rafael-zapico/
 ### 📩 E-mail: rafaelzapico.ti@gmail.com
-### <a href="https://www.linkedin.com/in/rafael-z%C3%A1pico-moura-93652a23b/"  target="_blank" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit"> </a> 
+
 
 <br>
 
 <p >
 
-  <img src="https://media.tenor.com/-bcIjjtcC30AAAAi/omen-valorant.gif" width="200px"> 
  <img src="https://media.tenor.com/-bcIjjtcC30AAAAi/omen-valorant.gif" width="200px"> 
-  <img src="https://media.tenor.com/-bcIjjtcC30AAAAi/omen-valorant.gif" width="200px"> 
-
+ <img src="https://media.tenor.com/-bcIjjtcC30AAAAi/omen-valorant.gif" width="200px"> 
+ <img src="https://media.tenor.com/-bcIjjtcC30AAAAi/omen-valorant.gif" width="200px"> 
  <img src="https://media.tenor.com/-bcIjjtcC30AAAAi/omen-valorant.gif" width="200px"> 
 </p>
 
