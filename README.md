@@ -1,6 +1,5 @@
+![Developer-Banner](./ok.jpg)
 
-
-<br>
 
 # Technology 💻
 
