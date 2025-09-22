@@ -11,7 +11,6 @@
   <img src="https://riverpod.dev/img/logo.png" width="50px">
    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="50px">
    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50px">
-    <img src="https://static-00.iconduck.com/assets.00/js-icon-2048x2048-kbwt89q3.png" width="50px">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50px">
    <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="50px">
    <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" width="50px">
